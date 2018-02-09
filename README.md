@@ -15,3 +15,4 @@ Project  Feature:
 •	Select your Operating System.
 •	Enter time (in seconds) when to shutdown.
 
+![1](https://user-images.githubusercontent.com/13907747/36029615-1b0b09c4-0dce-11e8-8dc5-345c4c89ec93.jpg)
